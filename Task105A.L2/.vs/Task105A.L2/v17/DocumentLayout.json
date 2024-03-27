@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|c:\\users\\kh53\\source\\repos\\task105a.l2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|c:\\users\\kh53\\source\\repos\\task105a.l2\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|c:\\users\\kh53\\source\\repos\\task105a.l2\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32934DBE-A423-490D-990D-CEC8939A7E38}|Task105A.L2.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Human.cs",
+              "RelativeDocumentMoniker": "Human.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Human.cs",
+              "RelativeToolTip": "Human.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:12:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:12:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kh53\\source\\repos\\Task105A.L2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:11:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
